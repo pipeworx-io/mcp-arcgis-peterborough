@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-peterborough",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "City of Peterborough GIS — Peterborough, Ontario (Canada) open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-125fd70780bf5c537f80ed799d20cbde8d782886498337d4a5348803245e55dc",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-5d259a5fb7d77285f6fce15754d5138b5d3f02fe5a995e13f8c1ddb24f0a2ffd",
+    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
   }
 }
